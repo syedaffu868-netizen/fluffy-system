@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Hand+Pre:wght@400..700&display=swap');
+
+
+body{
+    margin:0;
+    background-color: black;
+    color:aliceblue;
+}
+
+.web
+{
+    background-color:black;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+.webright{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding-left:10px;
+}
+.con{
+
+    padding:20px;
+    font-family: "Edu VIC WA NT Hand Pre", cursive;
+    word-spacing:10px;
+}
+.webleft{
+    padding-right:10px;
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    
+}
+.ammi
+{
+    font-size:20px;
+    font-weight: bold;
+    padding:8px; 
+    margin:5px
+}
+.home
+{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+    height:85vh;
+    padding-top:50px;
+}
+.homeright
+{
+    padding-right:250px;
+}
+.homeleft
+{
+    font-family: "Dancing Script", cursive;
+    padding-left:200px;
+    font-size:20px;
+    color:aqua;
+}
+
+.ser-sub-container
+{
+    padding-left:10px;
+    padding-right:10px;
+    display:flex;
+    flex-direction:row;
+    font-family: "Handlee", cursive;
+}
+.services
+{
+    padding-left:20px;
+    padding-right:20px;
+    border: 4px solid greenyellow;
+    margin:4px;
+    color:aquamarine;
+}
+.contact{
+    
+    text-align:center;
+}
+.con{
+    color:rgb(127, 232, 255);
+    text-decoration: underline;
+}
+.contact-sub
+{
+    color:red;
+    font-family: "Dancing Script", cursive;
+}
+
+.ins
+{
+    color:blueviolet;
+    font-family: "Handlee", cursive;
+    text-decoration:underline;
+
+}
